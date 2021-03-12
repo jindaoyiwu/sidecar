@@ -1,0 +1,17 @@
+{
+    "name": "cyz/sidecar",
+    "description": "作为项目的边车，不对项目造成侵入，提供log文件上传，等基础服务",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "require-dev": {
+        "php": ">=7.1.0"
+    },
+    "authors": [
+        {
+            "name": "yuanzhao cheng",
+            "email": "jindaoyiwu@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
